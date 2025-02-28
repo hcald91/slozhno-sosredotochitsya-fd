@@ -1,0 +1,15 @@
+:root {
+  --accent-color: #ff0070;
+  --background-image: url(../images/cover-image-dark.png);
+  --background-color: #000028;
+  --button-hover-color: #FF007066;
+  --button-text-color: #ff0070;
+  --title-color: #DB00FF;
+  --section-title-color: #FF0070;
+  --article-title-color: #000028;
+  --main-font: IBM Plex Mono;
+  --main-heading-text-color: #ff0070;
+  --text-color: #F1B2CE;
+  --text-font-size: 18px;
+  --logo-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+}
